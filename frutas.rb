@@ -8,4 +8,9 @@ class Frutas
 	        puts "Maça / Acerola / Nectarina / Tomate / Morango"
 
 	end
-end 
+	
+	def frutas_verdes()
+	        puts " Abacate / Kiwi / Uvas verdes / Mação verde / Melancia "
+	end
+	
+end
